@@ -1,0 +1,5 @@
+﻿{
+    "ConnectionStrings": {
+        "DefaultConnection": "Server=172.16.60.100;Database=HR;User ID=huynguyen;Password=Namthuan@123;TrustServerCertificate=True;MultipleActiveResultSets=True;"
+    }
+}

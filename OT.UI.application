@@ -14,7 +14,7 @@
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\OT.UI_1_0_0_0\OT.UI.dll.manifest" size="31667">
+    <dependentAssembly dependencyType="install" codebase="Application_Files\OT.UI_1_0_0_0\OT.UI.dll.manifest" size="31667">
       <assemblyIdentity name="OT.UI.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>

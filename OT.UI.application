@@ -8,13 +8,13 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="https://steady-kelpie-a73f72.netlify.app/Application_Files/OT.UI_1_0_0_3/OT.UI.application" />
+    <deploymentProvider codebase="https://steady-kelpie-a73f72.netlify.app/ot.ui.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="https://steady-kelpie-a73f72.netlify.app\Application_Files\OT.UI_1_0_0_3\OT.UI.dll.manifest" size="31667">
+    <dependentAssembly dependencyType="install" codebase="https://steady-kelpie-a73f72.netlify.app/application_files/ot.ui_1_0_0_3/ot.ui.dll.manifest" size="31667">
       <assemblyIdentity name="OT.UI.exe" version="1.0.0.3" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
